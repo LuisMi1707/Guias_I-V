@@ -57,7 +57,10 @@ namespace DataSourceDemo__GUIA1_
         {
             if (e.KeyChar == (char)13)
             {
-            }
+                var index = customersBindingSource.Find("customerID", toolStripTextBox1);
+                MessageBox.Show($"{index}");
+
+            };
         }
     }
 }
