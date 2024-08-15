@@ -57,6 +57,20 @@ namespace DataSourceDemo__GUIA1_
         {
             if (e.KeyChar == (char)13)
             {
+              
+                 var index = customersBindingSource.Find("customerID", toolStripTextBox1);
+                        
+                    if (index > -1)
+                    {
+                        customersBindingSource.Position = index;
+                        return;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Elemento no encontrado");
+                    }
+                  
+                
             }
         }
     }
