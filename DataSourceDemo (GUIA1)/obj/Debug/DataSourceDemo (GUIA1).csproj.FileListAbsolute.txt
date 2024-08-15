@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\bin\Debug\DataSourceDemo (GUIA1).exe.config
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\bin\Debug\DataSourceDemo (GUIA1).exe
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\bin\Debug\DataSourceDemo (GUIA1).pdb
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo (GUIA1).csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo__GUIA1_.Form1.resources
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo__GUIA1_.Properties.Resources.resources
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo (GUIA1).csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo (GUIA1).csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo (GUIA1).exe
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo (GUIA1).pdb
+C:\Users\HP\OneDrive\GUIAS PROGRA 2\DataSourceDemo (GUIA1)\DataSourceDemo (GUIA1)\obj\Debug\DataSourceDemo__GUIA1_.ejemploConexion.resources
